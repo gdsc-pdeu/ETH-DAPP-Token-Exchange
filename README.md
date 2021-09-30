@@ -1,6 +1,7 @@
 # ETH-DAPP-Token-Exchange
 
 ## Step-1 
+#### Clone this repo into your local machine
 #### Download Meta Mask Extension from Google chrome extension and Sign Up or Login
 
 ## Step-2 
