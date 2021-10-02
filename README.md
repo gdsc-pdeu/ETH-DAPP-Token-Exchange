@@ -53,3 +53,6 @@ Succefully transfer token from ether to DAPP.
 <img src="https://user-images.githubusercontent.com/68073132/115141612-f3a35300-a05a-11eb-8bc9-6dee624a85f3.png" width="850" height="600">
 
 
+## Author
+<a href="https://github.com/smit-1923">Smit Sakariya</a>
+
